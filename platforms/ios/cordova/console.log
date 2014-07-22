@@ -1,0 +1,40 @@
+2014-07-18 15:42:16.404 myApp[1221:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-18 15:42:16.559 myApp[1221:70b] Unlimited access to network resources
+2014-07-18 15:42:18.091 myApp[1221:70b] [CDVTimer][keyboard] 23.903966ms
+2014-07-18 15:42:18.092 myApp[1221:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-18 15:42:18.093 myApp[1221:70b] [CDVTimer][statusbar] 0.514030ms
+2014-07-18 15:42:18.093 myApp[1221:70b] [CDVTimer][TotalPluginStartup] 25.777042ms
+2014-07-18 15:42:18.804 myApp[1221:70b] Resetting plugins due to page load.
+2014-07-18 15:42:19.475 myApp[1221:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/678EB96C-E467-4956-ACBC-2CBB2E764F90/myApp.app/www/index.html#/app/playlists
+2014-07-18 16:39:12.373 myApp[1691:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-18 16:39:12.417 myApp[1691:70b] Unlimited access to network resources
+2014-07-18 16:39:12.475 myApp[1691:70b] [CDVTimer][keyboard] 0.070989ms
+2014-07-18 16:39:12.475 myApp[1691:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-18 16:39:12.476 myApp[1691:70b] [CDVTimer][statusbar] 0.553966ms
+2014-07-18 16:39:12.476 myApp[1691:70b] [CDVTimer][TotalPluginStartup] 1.552999ms
+2014-07-18 16:39:12.605 myApp[1691:70b] Resetting plugins due to page load.
+2014-07-18 16:39:13.646 myApp[1691:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/678EB96C-E467-4956-ACBC-2CBB2E764F90/myApp.app/www/index.html#/app/playlists
+2014-07-21 13:41:52.538 myApp[5849:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-21 13:41:52.570 myApp[5849:70b] Unlimited access to network resources
+2014-07-21 13:41:52.604 myApp[5849:70b] [CDVTimer][keyboard] 0.068009ms
+2014-07-21 13:41:52.605 myApp[5849:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-21 13:41:52.606 myApp[5849:70b] [CDVTimer][statusbar] 0.561953ms
+2014-07-21 13:41:52.606 myApp[5849:70b] [CDVTimer][TotalPluginStartup] 1.703024ms
+2014-07-21 13:41:52.788 myApp[5849:70b] Resetting plugins due to page load.
+2014-07-21 13:41:53.273 myApp[5849:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/678EB96C-E467-4956-ACBC-2CBB2E764F90/myApp.app/www/index.html#/app/playlists
+2014-07-21 14:28:12.533 myApp[6155:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-21 14:28:12.586 myApp[6155:70b] Unlimited access to network resources
+2014-07-21 14:28:12.631 myApp[6155:70b] [CDVTimer][keyboard] 12.360990ms
+2014-07-21 14:28:12.631 myApp[6155:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-21 14:28:12.632 myApp[6155:70b] [CDVTimer][statusbar] 0.806987ms
+2014-07-21 14:28:12.633 myApp[6155:70b] [CDVTimer][TotalPluginStartup] 14.752984ms
+2014-07-21 14:28:12.966 myApp[6155:70b] Resetting plugins due to page load.
+2014-07-21 14:28:13.488 myApp[6155:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/678EB96C-E467-4956-ACBC-2CBB2E764F90/myApp.app/www/index.html#/app/playlists
+2014-07-21 14:30:22.705 myApp[6328:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-21 14:30:22.743 myApp[6328:70b] Unlimited access to network resources
+2014-07-21 14:30:22.789 myApp[6328:70b] [CDVTimer][keyboard] 0.075996ms
+2014-07-21 14:30:22.789 myApp[6328:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-21 14:30:22.790 myApp[6328:70b] [CDVTimer][statusbar] 0.494957ms
+2014-07-21 14:30:22.790 myApp[6328:70b] [CDVTimer][TotalPluginStartup] 1.527011ms
+2014-07-21 14:30:23.200 myApp[6328:70b] Resetting plugins due to page load.
+2014-07-21 14:30:23.449 myApp[6328:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/678EB96C-E467-4956-ACBC-2CBB2E764F90/myApp.app/www/index.html#/app/playlists
